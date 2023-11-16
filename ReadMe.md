@@ -4,7 +4,11 @@
     <img src="./images/images-1.png" alt="ZeroMQ">
 </div>
 
+<br>
+
 - A simple ZeroMQ (pub/sub) example with Node.js
+
+<br>
 
 ### This project uses the following packages:
 
