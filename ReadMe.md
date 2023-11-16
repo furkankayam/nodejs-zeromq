@@ -1,7 +1,7 @@
 # `NodeJs & ZeroMQ`
 
 <div align="center">
-    <img src="./images/images-1.png" alt="ZeroMQ" width="400" height="400">
+    <img src="./images/images-1.png" alt="ZeroMQ">
 </div>
 
 - A simple ZeroMQ (pub/sub) example with Node.js
